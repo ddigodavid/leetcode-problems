@@ -1,5 +1,6 @@
+import { ListNode } from './definitions';
 // Second Solution
-addTwoNumbers = (l1: ListNode | null, l2: ListNode | null): (ListNode | null) => {
+export default function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): (ListNode | null) {
 	let currentNode = new ListNode();
     let result = currentNode;
 	let carry = 0;
