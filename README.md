@@ -12,9 +12,9 @@ Run the solution:
 ts-node {folder}
 
 eg.: 
-ts-node 1.Two-Sum
-ts-node 2.Add-Two-Numbers-ListNode
-ts-node 3.Longest-Substring-Without-Repeating-Characters
+ts-node ./LeetCode/1.Two-Sum
+ts-node ./LeetCode/2.Add-Two-Numbers-ListNode
+ts-node ./LeetCode/3.Longest-Substring-Without-Repeating-Characters
 ```
 
 # Data Structures Problems
